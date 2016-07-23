@@ -2,8 +2,7 @@ init
 
 
 function show() {
-  console.log("这我在branch上的改动");
+
+  console.log("利用tag标签，来到这里，把你修改了");
 }
 
-
-这次我们使用标签
